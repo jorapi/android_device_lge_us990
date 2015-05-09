@@ -1,3 +1,7 @@
+# NFC
+lib/hw/nfc_lg.default.so
+vendor/firmware/libpn544_fw.so
+
 # Bluetooth firmware
 bin/BCM4335_003.001.009.0025.0000_LGIT_TWCS-B221D_TESTONLY.hcd:etc/firmware/BCM4335_003.001.009.0025.0000_LGIT_TWCS-B221D_TESTONLY.hcd
 bin/BCM4339_003.001.009.0061.0313_FM_I2S.hcd:etc/firmware/BCM4339_003.001.009.0061.0313_FM_I2S.hcd
