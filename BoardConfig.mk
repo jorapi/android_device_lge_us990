@@ -41,6 +41,9 @@ TARGET_USERIMAGES_USE_F2FS := true
 # Recovery
 TARGET_RECOVERY_FSTAB := device/lge/us990/rootdir/etc/fstab.g3
 
+# RIL
+BOARD_RIL_CLASS := ../../../device/lge/us990/ril/
+
 # NFC
 BOARD_NFC_CHIPSET := pn544
 
