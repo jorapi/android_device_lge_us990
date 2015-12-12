@@ -17,14 +17,9 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-<<<<<<< HEAD
 #define BTM_DEF_LOCAL_NAME "LG US990"
-#define BTA_DISABLE_DELAY 100 /* in milliseconds */
-=======
-#define BTM_DEF_LOCAL_NAME "LG LS990"
 #define BTA_DISABLE_DELAY 1000 /* in milliseconds */
 
 #define BLE_VND_INCLUDED TRUE
->>>>>>> 451e76b05420367fb130f582375869fc2d7508c9
 
 #endif
