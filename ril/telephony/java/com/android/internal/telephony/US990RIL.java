@@ -35,7 +35,7 @@ import com.android.internal.telephony.uicc.IccCardStatus;
  *
  * {@hide}
  */
-public class US990RIL extends RIL implements CommandsInterface {
+public class US990RIL extends LgeLteRIL implements CommandsInterface {
     static final String LOG_TAG = "US990RIL";
 
     public US990RIL(Context context, int preferredNetworkType,
